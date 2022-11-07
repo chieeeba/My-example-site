@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  background: url("login\GPI Front-Bluer1.jpg") center center no-repeat;
+  width: 100%;
+  min-width: 3rem;
+  background-color: blue;
+}
